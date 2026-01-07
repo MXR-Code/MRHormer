@@ -1,3 +1,4 @@
+```bash
 @article{WU2026115262,
 title = {MRHormer: A Multi-Scale Heterogeneous Graph Transformer for Inductive Herb-Target Interaction Prediction},
 journal = {Knowledge-Based Systems},
