@@ -12,7 +12,7 @@ This repository hosts the code and data of **MRHormer**.
 <img src='model.png'/>
 
 ## Contact
-For any questions or feedback, feel free to contact [Xiangrun Meng](mailto:mc46720@um.edu.mo).
+[Xiangrun Meng](mailto:mc46720@um.edu.mo).
 
 ## Citation
 Please cite:
