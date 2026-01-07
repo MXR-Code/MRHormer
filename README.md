@@ -1,6 +1,7 @@
 # <center>MRHormer: A Multi-Scale Heterogeneous Graph Transformer for Inductive Herb-Target Interaction Prediction</center>
 <img src='model.png'/>
-
+## Contact
+[Xiangrun Meng](mailto:mc46720@um.edu.mo)
 ## Citation
 Please cite:
 ```bash
