@@ -1,5 +1,6 @@
 # <center>MRHormer: A Multi-Scale Heterogeneous Graph Transformer for Inductive Herb-Target Interaction Prediction</center>
-<img src='images/HiGPT_article_cover.png' />
+<img src='model.png/>
+
 ## Citation
 Please cite:
 ```bash
