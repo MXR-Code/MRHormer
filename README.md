@@ -3,7 +3,7 @@
 -----
 <a href='https://doi.org/10.1016/j.knosys.2026.115262'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a> 
 
-This repository hosts the code, data and model weight of **MRHormer**.
+This repository hosts the code and data of **MRHormer**.
 
 -----
 
