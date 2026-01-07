@@ -2,7 +2,7 @@
 
 <img src='model.png'/>
 
-Yingpei Wu, [Xiangrun Meng](https://github.com/MXR-Code), Jialin Wang*, Yanchun Zhang*, Minjia Guan, Guangyu Hu and Zhanming Wan*.
+Yingpei Wu, [Xiangrun Meng](https://github.com/MXR-Code), Jialin Wang*, Yanchun Zhang*, Minjia Guan, Guangyu Hu and Zhanming Wan.
 (*Correspondence)
 
 -----
