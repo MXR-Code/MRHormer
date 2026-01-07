@@ -24,4 +24,5 @@ pages = {115262},
 year = {2026},
 issn = {0950-7051},
 doi = {https://doi.org/10.1016/j.knosys.2026.115262},
-url = {https://www.sciencedirect.com/science/article/pii/S0950705126000055}}
+url = {https://www.sciencedirect.com/science/article/pii/S0950705126000055},
+author = {Yingpei Wu and Xiangrun Meng and Jialin Wang and Yanchun Zhang and Minjia Guan and Guangyu Hu and Zhanming Wan}}
