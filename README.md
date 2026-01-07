@@ -1,5 +1,10 @@
 # <center>MRHormer: A Multi-Scale Heterogeneous Graph Transformer for Inductive Herb-Target Interaction Prediction</center>
 
+<img src='model.png'/>
+
+Yingpei Wu, [Xiangrun Meng](https://github.com/MXR-Code), Jialin Wang*, Yanchun Zhang*, Minjia Guan, Guangyu Hu and Zhanming Wan*.
+(*Correspondence)
+
 -----
 <a href='https://doi.org/10.1016/j.knosys.2026.115262'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a> 
 
@@ -8,8 +13,8 @@ This repository hosts the code and data of **MRHormer**.
 -----
 
 
-## Model
-<img src='model.png'/>
+
+
 
 ## Contact
 For any questions, feel free to contact [Xiangrun Meng](mailto:mc46720@um.edu.mo).
