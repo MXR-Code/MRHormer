@@ -13,12 +13,6 @@ This repository hosts the code and data of **MRHormer**.
 
 -----
 
-
-
-
-## Contact
-For any questions about this repository, feel free to contact [Xiangrun Meng](mailto:mc46720@um.edu.mo).
-
 ## Citation
 Please cite:
 ```bash
